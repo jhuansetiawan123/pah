@@ -1,0 +1,19 @@
+{
+   "owner": "6285920315988",
+   "owner_name": "Kena Kau!",
+   "database": "data",
+   "limit": 50,
+   "ram_limit": "900mb",
+   "max_upload": 150,
+   "max_upload_free": 30,
+   "cooldown": 1,
+   "timer": 18000,
+   "timeout": 180000,
+   "blocks": ["994", "91", "92"],
+   "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
+   "pairing": {
+      "state": true,
+      "number": 6285920315988
+   },
+   "replit_url": ""
+}
